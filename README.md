@@ -1,1 +1,1 @@
-# Prectica-FernandoCuellar
+# Practica-FernandoCuellar
